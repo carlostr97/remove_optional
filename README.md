@@ -1,6 +1,6 @@
 ~Current Version:1.0~
 
-# Custom Registration Field
+# Remove Optional
 
 Questo plugin elimina da alcune textfield del checkout di WooCommerce la label ("optional") e le rende obbligatorie.
 
